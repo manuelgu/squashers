@@ -1,0 +1,2 @@
+# squashers
+Squash commits!
