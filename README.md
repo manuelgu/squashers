@@ -1,7 +1,7 @@
 # squashers
 Squash commits!
 
-### OVERVIEW
+## OVERVIEW
 
 This project shows you you can squash commits
 
